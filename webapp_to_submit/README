@@ -1,0 +1,9 @@
+How to run the App locally:
+
+1] Open a terminal window, go to the server folder and run npm install
+
+2] In another terminal window, go to the client folder and run npm install
+
+3] In the server terminal window run npm start
+
+4] In the client terminal window run npm start 
